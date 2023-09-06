@@ -17,5 +17,5 @@ An application that saves famous artworks with their name, artist's name and yea
 
 + # Output
 
-| <img src="screenshots/fotoekleme.png" width=150/> | <img src="screenshots/fotokaydetmeekranı.png" width=150/> |
-| <img src="screenshots/resimaramasonucları.png" width=150/> | <img src="screenshots/Eklediktensonra.png" width=150/> |
+<img src="screenshots/fotoekleme.png" width=150/> <img src="screenshots/fotokaydetmeekranı.png" width=150/>
+<img src="screenshots/resimaramasonucları.png" width=150/> <img src="screenshots/Eklediktensonra.png" width=150/>

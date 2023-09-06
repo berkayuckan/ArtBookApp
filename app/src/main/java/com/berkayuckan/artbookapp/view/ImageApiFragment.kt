@@ -22,13 +22,11 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @AndroidEntryPoint
-class ImageApiFragment @Inject constructor(
-    private val imageRecyclerAdapter: ImageRecyclerAdapter
-): Fragment(R.layout.fragment_image_api) {
+class ImageApiFragment @Inject constructor(val imageRecyclerAdapter: ImageRecyclerAdapter): Fragment(R.layout.fragment_image_api) {
 
     private lateinit var binding : FragmentImageApiBinding
 
-    private lateinit var viewModel : ArtViewModel
+    lateinit var viewModel : ArtViewModel
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

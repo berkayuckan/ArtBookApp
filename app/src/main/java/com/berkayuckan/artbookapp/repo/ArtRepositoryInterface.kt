@@ -1,7 +1,7 @@
 package com.berkayuckan.artbookapp.repo
 
 import androidx.lifecycle.LiveData
-import com.berkayuckan.artbookapp.roomdb.model.ImageResponse
+import com.berkayuckan.artbookapp.model.ImageResponse
 import com.berkayuckan.artbookapp.roomdb.ArtModel
 import com.berkayuckan.artbookapp.util.Resource
 

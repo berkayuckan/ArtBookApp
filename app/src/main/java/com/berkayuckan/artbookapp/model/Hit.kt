@@ -1,4 +1,4 @@
-package com.berkayuckan.artbookapp.roomdb.model
+package com.berkayuckan.artbookapp.model
 
 
 import com.google.gson.annotations.SerializedName

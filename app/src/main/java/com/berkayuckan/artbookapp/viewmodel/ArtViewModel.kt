@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.berkayuckan.artbookapp.roomdb.model.ImageResponse
+import com.berkayuckan.artbookapp.model.ImageResponse
 import com.berkayuckan.artbookapp.repo.ArtRepositoryInterface
 import com.berkayuckan.artbookapp.roomdb.ArtModel
 import com.berkayuckan.artbookapp.util.Resource

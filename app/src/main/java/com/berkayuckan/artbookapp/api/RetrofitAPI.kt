@@ -1,6 +1,6 @@
 package com.berkayuckan.artbookapp.api
 
-import com.berkayuckan.artbookapp.roomdb.model.ImageResponse
+import com.berkayuckan.artbookapp.model.ImageResponse
 import com.berkayuckan.artbookapp.util.Constants
 import retrofit2.Response
 import retrofit2.http.GET

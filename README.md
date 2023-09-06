@@ -16,5 +16,9 @@ An application that saves famous artworks with their name, artist's name and yea
 + ViewBinding
 
 + # Output
+
 | --- | --- |
-| <img src="screenshots/fotoekleme" width=150/> | <img src="screenshots/fotokaydetmeekranı.png" width=150/> | <img src="screenshots/resimaramasonucları.png" width=150/> | <img src="screenshots/Eklediktensonra.png" width=150/> |
+| <img src="screenshots/fotoekleme" width=150/> | 
+| <img src="screenshots/fotokaydetmeekranı.png" width=150/> |
+| <img src="screenshots/resimaramasonucları.png" width=150/> |
+| <img src="screenshots/Eklediktensonra.png" width=150/> |
